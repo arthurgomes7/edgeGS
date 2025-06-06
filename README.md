@@ -30,6 +30,7 @@ Este sistema simula um drone equipado com sensores para:
    - Acende o LED se a **umidade for maior que 70%** e a **distância menor que 50cm**
 
 Vídeo de apresentação: https://youtu.be/3QaJ8nbNtoI
+Projeto no Wokwi: https://wokwi.com/projects/432981391542009857
 
 ## Integrantes
 Arthur Gomes - RM 560771
