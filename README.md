@@ -29,6 +29,11 @@ Este sistema simula um drone equipado com sensores para:
    - Publica os dados no tópico MQTT: `sensor/monitoramento`
    - Acende o LED se a **umidade for maior que 70%** e a **distância menor que 50cm**
 
+## Integrantes
+Arthur Gomes - RM 560771
+Matheus Siroma - RM 560248
+Pedro Estevam - RM 560642
+
 ### Exemplo de JSON publicado:
 ```json
 {
